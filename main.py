@@ -181,3 +181,4 @@ while True:
                 note_text = get_audio()
                 note(note_text)
                 speak("I've made a note of that.")
+                
